@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Park Jin Su</h1>
-<h3 align="center">I wnat A passionate frontend & backend developer</h3>
+<h3 align="center">I want A passionate frontend & backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinsupark1215" alt="jinsupark1215" /> </p>
 
